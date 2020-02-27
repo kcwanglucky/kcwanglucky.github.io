@@ -1,3 +1,2 @@
-# kcwanglucky.github.io
-My Personal Website
+Lucky Wang's Personal Website
 https://kcwanglucky.github.io/
