@@ -608,7 +608,7 @@ body.offcanvas {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 span {
   -webkit-opacity: .4;
-  display: inline-block;
+  display: inline-block; /* add this line to make span in the next line*/
   -moz-opacity: .4;
   opacity: .4;
   -ms-filter: alpha(opacity=40);
